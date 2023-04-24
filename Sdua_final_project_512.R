@@ -3,7 +3,6 @@
 #Research question: Animal fats will have a significant 
 #impact on covid death rate given obesity and meat consumption are considered.
 
-#this requires a type 1 anova since order matters 
 
 attach(Food_Supply_kcal_Data...Food_Supply_kcal_Data)
 
